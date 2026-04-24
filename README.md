@@ -21,7 +21,7 @@ I'm a Computer Engineering student at **Thammasat University** focused on buildi
 * **Assets:** Gold (XAUUSD), Bitcoin (BTC), and US Tech Stocks (TSM, ASML).
 
 ### Projects
-* **Tutor Match (CN230):** A platform connecting students and tutors. I serve as the **Backend Architect & Database Developer**
+* **Tutor Match (CN230):** A platform connecting students and tutors. I serve as the **Head Projects**
 ---
 
 ### Connect with me:
