@@ -1,31 +1,29 @@
 # Hi there, I'm Wutthisak 👋
 
-### 🎓 Computer Engineering Student At Thammasat University
+### 🎓 Computer Engineering Student @ Thammasat University
 ### 👨‍💻 Database & Backend Developer | Backend Architect | Documentation Enthusiast
 
-I'm a Computer Engineering student at **Thammasat University** focused on building scalable backend systems, creating detailed technical documentation, and exploring the intersection of finance and technology.
+I'm a Computer Engineering student at **Thammasat University** (ID: 6710535029) focused on building scalable backend systems, creating detailed technical documentation, and exploring the intersection of AI and Financial Technology.
 
 ---
 
 ### 🚀 Technical Skills
-* **Languages:** Java, Python, HTML, SQL
-* **Frameworks & Tools:** Flask, MySQL
+* **Languages:** Python, Java, SQL, HTML
+* **Backend & Database:** Flask Framework, MySQL (Relational Database Design)
+* **Engineering Tools:** AutoCAD
 * **Documentation & Design:** Technical Writing, System Flowcharts, Database Schema Design
-* **Architecture:** Database Design, Backend Architecture
 
-### ✍️ Why I Love Documentation
-I believe that great code is only half of the story. I enjoy:
+### ✍️ Documentation
 * **Structured Thinking:** Translating complex architectures into easy-to-understand documentation and intuitive diagrams.
 * **Detail-Oriented:** Meticulously documenting workflows to ensure seamless team collaboration and project transparency.
-* **Quality First:** Crafting comprehensive API specifications and READMEs to ensure long-term project sustainability and scalability.
 
-### 📊 Trading & Financial Interests
-I have a strong interest in financial market analysis and automated trading:
-* **Strategies:** Smart Money Concepts (SMC), Technical Analysis (RSI, MACD, FVG)
-* **Markets:** Gold (XAUUSD), Bitcoin (BTC), and US Tech Stocks (TSM, ASML)
+### 📊 Trading & Financial Engineering
+I am actively developing automated trading systems and analyzing market structures:
+* **Strategies:** Smart Money Concepts (SMC), Technical Analysis (RSI 14, MACD, EMA 14/30, FVG)
+* **Assets:** Gold (XAUUSD), Bitcoin (BTC), and US Tech Stocks (TSM, ASML).
 
 ### 📁 Featured Projects
-* **Tutor Match:** A platform connecting students and tutors (Flask & MySQL)
+* **Tutor Match (CN230):** A platform connecting students and tutors. I serve as the **Backend Architect & Database Developer**
 ---
 
 ### 📫 Connect with me:
