@@ -6,20 +6,17 @@ I'm a student developer focused on building scalable backend systems and explori
 ---
 
 ### 🚀 Technical Skills
-* **Languages:** Java, Python, SQL
-* **Frameworks & Tools:** Flask, MySQL, AutoCAD, Logisim
+* **Languages:** Java, Python, HTML, SQL
+* **Frameworks & Tools:** Flask, MySQL,
 * **Architecture:** Database Design, Backend Architecture
 
 ### 📊 Trading & Financial Interests
 I have a strong interest in financial market analysis and automated trading:
 * **Strategies:** Smart Money Concepts (SMC), Technical Analysis (RSI, MACD, FVG)
 * **Markets:** Gold (XAUUSD), Bitcoin (BTC), and US Tech Stocks (TSM, ASML)
-* **AI in Trading:** Developing LLM-based trading agents and market data integration
 
 ### 📁 Featured Projects
 * **Tutor Match:** A platform connecting students and tutors (Flask & MySQL)
-* **Smart-DCA:** Automated investment strategies
-* **Gold Trading Project:** Implementation of systematic trading rules and data analysis
 
 ---
 
