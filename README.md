@@ -21,7 +21,7 @@ I am actively developing automated trading systems and analyzing market structur
 * **Strategies:** Smart Money Concepts (SMC), Technical Analysis (RSI 14, MACD, EMA 14/30, FVG)
 * **Assets:** Gold (XAUUSD), Bitcoin (BTC), and US Tech Stocks (TSM, ASML).
 
-### 📁 Featured Projects
+### 📁 Projects
 * **Tutor Match (CN230):** A platform connecting students and tutors. I serve as the **Backend Architect & Database Developer**
 ---
 
