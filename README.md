@@ -1,6 +1,6 @@
 # Hi there, I'm Wutthisak 👋
 
-### 🎓 Computer Engineering Student @ Thammasat University
+### 🎓 Computer Engineering Student Thammasat University
 ### 👨‍💻 Database & Backend Developer | Backend Architect | Documentation Enthusiast
 
 I'm a Computer Engineering student at **Thammasat University** focused on building scalable backend systems, creating detailed technical documentation, and exploring the intersection of finance and technology.
