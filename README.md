@@ -22,6 +22,7 @@ I'm a Computer Engineering student at **Thammasat University** focused on buildi
 
 ### Projects
 * **Tutor Match (CN230):** A platform connecting students and tutors. I serve as the **Head Projects**
+* **Gold Trading Agents** I serve as the **Technical & Testing Team**
 ---
 
 ### Connect with me:
