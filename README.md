@@ -16,8 +16,7 @@ I'm a Computer Engineering student at **Thammasat University** focused on buildi
 * **Structured Thinking:** Translating complex architectures into easy-to-understand documentation and intuitive diagrams.
 * **Detail-Oriented:** Meticulously documenting workflows to ensure seamless team collaboration and project transparency.
 
-### 📊 Trading & Financial Engineering
-I am actively developing automated trading systems and analyzing market structures:
+### 📊 Financial
 * **Strategies:** Smart Money Concepts (SMC), Technical Analysis (RSI 14, MACD, EMA 14/30, FVG)
 * **Assets:** Gold (XAUUSD), Bitcoin (BTC), and US Tech Stocks (TSM, ASML).
 
