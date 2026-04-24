@@ -23,8 +23,7 @@ I have a strong interest in financial market analysis and automated trading:
 * **Markets:** Gold (XAUUSD), Bitcoin (BTC), and US Tech Stocks (TSM, ASML)
 
 ### 📁 Featured Projects
-* **Tutor Match:** A platform connecting students and tutors (Flask & MySQL) — *เน้นการวางโครงสร้างระบบและการทำเอกสารประกอบการพัฒนาที่ครบถ้วน*
-
+* **Tutor Match:** A platform connecting students and tutors (Flask & MySQL)
 ---
 
 ### 📫 Connect with me:
