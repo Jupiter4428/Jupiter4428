@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Wutthisak 👋
 
-<!--
-**Jupiter4428/Jupiter4428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Database & Backend Developer | Backend Architect
+I'm a student developer focused on building scalable backend systems and exploring the intersection of finance and technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+* **Languages:** Java, Python, SQL
+* **Frameworks & Tools:** Flask, MySQL, AutoCAD, Logisim
+* **Architecture:** Database Design, Backend Architecture
+
+### 📊 Trading & Financial Interests
+I have a strong interest in financial market analysis and automated trading:
+* **Strategies:** Smart Money Concepts (SMC), Technical Analysis (RSI, MACD, FVG)
+* **Markets:** Gold (XAUUSD), Bitcoin (BTC), and US Tech Stocks (TSM, ASML)
+* **AI in Trading:** Developing LLM-based trading agents and market data integration
+
+### 📁 Featured Projects
+* **Tutor Match:** A platform connecting students and tutors (Flask & MySQL)
+* **Smart-DCA:** Automated investment strategies
+* **Gold Trading Project:** Implementation of systematic trading rules and data analysis
+
+---
+
+### 📫 Connect with me:
+* **Email:** wutthisak2548@gmail.com
+* **Student ID:** 6710535029
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jupiter4428&show_icons=true&theme=dark)
