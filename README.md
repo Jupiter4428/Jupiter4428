@@ -10,7 +10,7 @@ I'm a Computer Engineering student at **Thammasat University** focused on buildi
 ### 🚀 Technical Skills
 * **Languages:** Java, Python, HTML, SQL
 * **Frameworks & Tools:** Flask, MySQL
-* **Documentation & Design:** Technical Writing, API Documentation, System Flowcharts, Database Schema Design
+* **Documentation & Design:** Technical Writing, System Flowcharts, Database Schema Design
 * **Architecture:** Database Design, Backend Architecture
 
 ### ✍️ Why I Love Documentation
