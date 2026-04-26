@@ -1,7 +1,5 @@
 # Hi there, I'm Wutthisak
 
-### Database & Backend Developer | Backend Architect | Documentation Enthusiast
-
 I'm a Computer Engineering student at **Thammasat University**
 ---
 
