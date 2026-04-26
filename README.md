@@ -32,7 +32,7 @@
 
 ---
 
-### Documentation & Philosophy
+### Documentation
 
 * 
 * 
