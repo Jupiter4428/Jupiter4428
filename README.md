@@ -3,11 +3,19 @@
 
 ---
 
+### Core Interests
+
+* **Finance:** Quantitative analysis and algorithmic trading strategies in global markets.
+* **Robotics & Automation:** Designing autonomous systems and streamlining workflows through software-hardware integration.
+* **Computer Architecture:** Exploring logic design, system optimization, and the fundamental structures of computing.
+
+---
+
 ### Technical Stack
 
 * **Languages:** Python, Java, SQL, HTML
 * **Backend & Database:** Flask Framework, MySQL (Database Normalization & Schema Design)
-* **Engineering:** AutoCAD, System Flowcharts, Logic Circuit Design
+* **Engineering:** AutoCAD, System Flowcharts, Logic Circuit Design (Logisim)
 * **Workflow:** Git (Version Control), Technical Documentation, API Architecture
 
 ---
@@ -32,11 +40,10 @@
 
 ---
 
-### Documentation
+### Documentation & Philosophy
 
+* **Structured Thinking:** I specialize in translating complex technical requirements into clean, intuitive diagrams and documentation.
 * 
-* 
-
 ---
 
 ### Connect with me:
