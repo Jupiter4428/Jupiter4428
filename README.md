@@ -34,8 +34,8 @@
 
 ### Documentation & Philosophy
 
-* **Structured Thinking:** I specialize in translating complex technical requirements into clean, intuitive diagrams and documentation.
-* **Precision-Driven:** My approach is meticulous—whether it's normalizing a database to 3NF or fine-tuning an entry point in the gold market.
+* 
+* 
 
 ---
 
