@@ -6,6 +6,7 @@
 ### Core Interests
 
 * **Finance:** Quantitative analysis and algorithmic trading strategies in global markets.
+* **Internet of Things (IoT):** Developing interconnected smart systems and leveraging sensor data for real-time applications.
 * **Robotics & Automation:** Designing autonomous systems and streamlining workflows through software-hardware integration.
 * **Computer Architecture:** Exploring logic design, system optimization, and the fundamental structures of computing.
 
