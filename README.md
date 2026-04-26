@@ -2,8 +2,7 @@
 
 ### Database & Backend Developer | Backend Architect | Documentation Enthusiast
 
-I'm a Computer Engineering student at **Thammasat University** focused on building scalable backend systems, creating detailed technical documentation
-
+I'm a Computer Engineering student at **Thammasat University**
 ---
 
 ### Technical Skills
