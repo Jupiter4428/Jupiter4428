@@ -1,28 +1,47 @@
 # Hi there, I'm Wutthisak
+**Computer Engineering Student at Thammasat University | Backend Architect | Quant Strategist**
 
-I'm a Computer Engineering student at **Thammasat University**
 ---
 
-### Technical Skills
+### Technical Stack
+
 * **Languages:** Python, Java, SQL, HTML
-* **Backend & Database:** Flask Framework, MySQL (Relational Database Design)
-* **Engineering Tools:** AutoCAD
-* **Documentation & Design:** Technical Writing, System Flowcharts, Database Schema Design
+* **Backend & Database:** Flask Framework, MySQL (Database Normalization & Schema Design)
+* **Engineering:** AutoCAD, System Flowcharts, Logic Circuit Design
+* **Workflow:** Git (Version Control), Technical Documentation, API Architecture
 
-### Documentation
-* **Structured Thinking:** Translating complex architectures into easy-to-understand documentation and intuitive diagrams.
-* **Detail-Oriented:** Meticulously documenting workflows to ensure seamless team collaboration and project transparency.
+---
 
-### Financial
-* **Strategies:** Smart Money Concepts (SMC), Technical Analysis (RSI 14, MACD, EMA 14/30, FVG)
-* **Assets:** Gold (XAUUSD), Bitcoin (BTC), and US Tech Stocks (TSM, ASML).
+### Financial & Quantitative Analysis
 
-### Projects
-* **Tutor Match (CN230):** A platform connecting students and tutors. I serve as the **Technical Lead & Backend Architect**
-* **Gold Trading Agents (CN240)** A web-based gold (XAU/USD) trading dashboard powered by AI. I serve as the **Technical Strategist & System Analyst**
+* **Strategies:** Advanced **Smart Money Concepts (SMC)**, Fair Value Gap (FVG), and Liquidity Analysis.
+* **Technical Indicators:** Precision trading using RSI (14), MACD, and Dual EMA (14/30) strategies.
+* **Market Focus:** Specialized in **XAU/USD (Gold)** volatility, Bitcoin (BTC) trends, and high-growth Semiconductor stocks (**TSM, ASML**).
+
+---
+
+### Featured Projects
+
+* **Tutor Match (CN230)**
+    * **Role:** Technical Lead & Backend Architect
+    * **Focus:** Designed a scalable API architecture using Flask and optimized relational database structures to connect students with tutors seamlessly.
+
+* **Gold Trading Agents (CN240)**
+    * **Role:** Technical Strategist & System Analyst
+    * **Focus:** Developed an AI-powered dashboard for gold trading. Responsible for strategy logic implementation, historical backtesting, and system performance analysis.
+
+---
+
+### Documentation & Philosophy
+
+* **Structured Thinking:** I specialize in translating complex technical requirements into clean, intuitive diagrams and documentation.
+* **Precision-Driven:** My approach is meticulous—whether it's normalizing a database to 3NF or fine-tuning an entry point in the gold market.
+
 ---
 
 ### Connect with me:
-* **Email:** wutthisak2548@gmail.com
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jupiter4428&show_icons=true&theme=dark)
+* **Email:** wutthisak2548@gmail.com
+* **GitHub:** [Jupiter4428](https://github.com/Jupiter4428)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jupiter4428&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
