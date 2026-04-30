@@ -1,5 +1,5 @@
 # Hi there, I'm Wutthisak
-**Computer Engineering Student at Thammasat University | Backend Architect | Quant Strategist**
+**I'm an Computer Engineering Student at Thammasat University | Backend Architect | Quant Strategist**
 ---
 ### Core Interests
 * **Finance:** Quantitative analysis and algorithmic trading strategies in global markets.
