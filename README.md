@@ -37,7 +37,7 @@
 
 * **Gold Trading Agents (CN240)**
     * **Role:** Technical Strategist & System Analyst
-    * **Focus:** Developed an AI-powered dashboard for gold trading. Responsible for strategy logic implementation, historical backtesting, and system performance analysis.
+    * **Focus:** Developed an AI-powered dashboard for gold trading. Responsible for strategy logic implementation, and system performance analysis.
 
 ---
 
