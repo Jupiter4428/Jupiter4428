@@ -1,5 +1,4 @@
-# Hi there, I'm Wutthisak
-**I'm an Computer Engineering Student at Thammasat University**
+# Hi there
 ---
 ### Core Interests
 * **Finance:** Quantitative analysis and algorithmic trading strategies in global markets.
