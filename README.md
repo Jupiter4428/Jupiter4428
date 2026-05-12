@@ -30,13 +30,9 @@
 * **Gold Trading Agents (CN240)**
     * **Role:** Technical Strategist & System Analyst
     * **Focus:** Developed an AI-powered dashboard for gold trading. Responsible for strategy logic implementation, and system performance analysis.
----
-### Documentation & Philosophy
-* **Structured Thinking:** I specialize in translating complex technical requirements into clean, intuitive diagrams and documentation.
 
 ---
 ### Connect with me:
 * **Email:** [wutthisak2548@gmail.com](mailto:wutthisak2548@gmail.com)
 * **GitHub:** [Jupiter4428](https://github.com/Jupiter4428)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jupiter4428&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
