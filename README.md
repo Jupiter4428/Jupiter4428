@@ -12,12 +12,7 @@
 * **Engineering:** AutoCAD, System Flowcharts, Logic Circuit Design (Logisim)
 * **Workflow:** Git (Version Control), Technical Documentation, API Architecture
 ---
-### Financial & Quantitative Analysis
-* **Strategies:** Advanced **Smart Money Concepts (SMC)**, Fair Value Gap (FVG), and Liquidity Analysis.
-* **Technical Indicators:** Precision trading using RSI (14), MACD, and Dual EMA (14/30) strategies.
-* **Market Focus:** Specialized in **XAU/USD (Gold)** volatility, Bitcoin (BTC) trends, and high-growth Semiconductor stocks (**TSM, ASML**).
----
-### Featured Projects
+### Projects
 * **Smart-DCA — Portfolio Analysis System**
     * **Role:** Sole Developer & Quant Strategist
     * **Focus:** Built an automated Tactical DCA + Active Rebalancing system using multi-factor decision logic (RSI, MACD, P/E Ratio, Rebalance Weight). Features a backtesting engine that demonstrated **+14.2% Alpha** over Pure DCA since 2021, with a disk cache system to minimize API overhead.
@@ -30,9 +25,3 @@
 * **Gold Trading Agents (CN240)**
     * **Role:** Technical Strategist & System Analyst
     * **Focus:** Developed an AI-powered dashboard for gold trading. Responsible for strategy logic implementation, and system performance analysis.
-
----
-### Connect with me:
-* **Email:** [wutthisak2548@gmail.com](mailto:wutthisak2548@gmail.com)
-* **GitHub:** [Jupiter4428](https://github.com/Jupiter4428)
-
