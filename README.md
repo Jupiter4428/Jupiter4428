@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Wutthisak Boonkan
 
 **Quantitative Developer | IoT & Robotics Enthusiast | Computer Engineering Student**
 
