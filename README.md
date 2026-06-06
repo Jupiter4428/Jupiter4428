@@ -51,5 +51,4 @@ Welcome to my GitHub space! I'm passionate about bridging the gap between hardwa
 ### 📱 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jupiter4428)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wutthisak2548@gmail.com)
