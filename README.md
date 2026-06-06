@@ -26,7 +26,7 @@ Welcome to my GitHub space! I'm passionate about bridging the gap between hardwa
 
 ### Projects
 
-####[Digital Enigma](https://github.com/Jupiter4428/Digital-Enigma.git)
+#### Digital Enigma(https://github.com/Jupiter4428/Digital-Enigma.git)
 * **Role:** Developer / Digital Logic Designer
 * **Focus:** Implementation of a digital encryption system inspired by the classic Enigma machine. Designed and simulated using digital logic concepts to demonstrate hardware-level cryptography, sequence detection, and state machine transitions.
 * **Stack:** `Digital Logic` `Logisim` `Circuit Design`
