@@ -26,6 +26,11 @@ Welcome to my GitHub space! I'm passionate about bridging the gap between hardwa
 
 ### 📁 Featured Projects
 
+#### 🔐 [Digital Enigma](https://github.com/Jupiter4428/Digital-Enigma.git)
+* **Role:** Developer / Digital Logic Designer
+* **Focus:** Implementation of a digital encryption system inspired by the classic Enigma machine. Designed and simulated using digital logic concepts to demonstrate hardware-level cryptography, sequence detection, and state machine transitions.
+* **Stack:** `Digital Logic` `Logisim` `Circuit Design`
+
 #### 📈 Smart-DCA — Portfolio Analysis System
 * **Role:** Sole Developer & Quant Strategist
 * **Focus:** Built an automated Tactical DCA + Active Rebalancing system using multi-factor decision logic (RSI, MACD, P/E Ratio, Rebalance Weight). Features a backtesting engine that demonstrated **+14.2% Alpha** over Pure DCA since 2021, with a disk cache system to minimize API overhead.
@@ -45,6 +50,6 @@ Welcome to my GitHub space! I'm passionate about bridging the gap between hardwa
 
 ### 📱 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jupiter4428)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wutthisak2548@gmail.com)
