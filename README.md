@@ -24,24 +24,24 @@ Welcome to my GitHub space! I'm passionate about bridging the gap between hardwa
 
 ---
 
-### 📁 Featured Projects
+### Projects
 
-#### 🔐 [Digital Enigma](https://github.com/Jupiter4428/Digital-Enigma.git)
+####[Digital Enigma](https://github.com/Jupiter4428/Digital-Enigma.git)
 * **Role:** Developer / Digital Logic Designer
 * **Focus:** Implementation of a digital encryption system inspired by the classic Enigma machine. Designed and simulated using digital logic concepts to demonstrate hardware-level cryptography, sequence detection, and state machine transitions.
 * **Stack:** `Digital Logic` `Logisim` `Circuit Design`
 
-#### 📈 Smart-DCA — Portfolio Analysis System
+#### Smart-DCA — Portfolio Analysis System
 * **Role:** Sole Developer & Quant Strategist
 * **Focus:** Built an automated Tactical DCA + Active Rebalancing system using multi-factor decision logic (RSI, MACD, P/E Ratio, Rebalance Weight). Features a backtesting engine that demonstrated **+14.2% Alpha** over Pure DCA since 2021, with a disk cache system to minimize API overhead.
 * **Stack:** `Python` `pandas` `yfinance` `matplotlib` `openpyxl`
 
-#### 🤝 Tutor Match (CN230)
+#### Tutor Match (CN230)
 * **Role:** Technical Lead & Backend Architect
 * **Focus:** Designed a scalable API architecture using Flask and optimized relational database structures to connect students with tutors seamlessly.
 * **Stack:** `Flask` `MySQL` `Python`
 
-#### 🤖 Gold Trading Agents (CN240)
+#### Gold Trading Agents (CN240)
 * **Role:** Technical Strategist & System Analyst
 * **Focus:** Developed an AI-powered dashboard for gold trading. Responsible for strategy logic implementation, and system performance analysis.
 * **Stack:** `Python` `Data Analysis`
