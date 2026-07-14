@@ -1,19 +1,9 @@
-# Hi there! 👋 I'm Wutthisak Boonkan
+# Hi there!  I'm Wutthisak Boonkan
 
 **Quantitative Developer | IoT & Robotics Enthusiast | Computer Engineering Student**
 
 Welcome to my GitHub space! I'm passionate about bridging the gap between hardware and software—specializing in quantitative trading strategies, automated systems, and embedded architecture. I love optimizing workflows and turning complex data into actionable logic.
 
----
-
-### 🚀 Core Interests
-
-* 📈 **Finance:** Quantitative analysis and algorithmic trading strategies in global markets.
-* 🌐 **Internet of Things (IoT):** Developing interconnected smart systems and leveraging sensor data for real-time applications.
-* 🤖 **Robotics & Automation:** Designing autonomous systems and streamlining workflows through software-hardware integration.
-* 💻 **Computer Architecture:** Exploring logic design, system optimization, and the fundamental structures of computing.
-
----
 
 ### 🛠️ Tech Stack & Tools
 
