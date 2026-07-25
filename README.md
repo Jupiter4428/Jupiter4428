@@ -2,10 +2,7 @@
 
 **Quantitative Developer | IoT & Robotics Enthusiast | Computer Engineering Student**
 
-Welcome to my GitHub space! I'm passionate about bridging the gap between hardware and software—specializing in quantitative trading strategies, automated systems, and embedded architecture. I love optimizing workflows and turning complex data into actionable logic.
-
-
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 * **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-%23F1A100.svg?style=for-the-badge&logo=vlc&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 * **Backend & Database:** ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
